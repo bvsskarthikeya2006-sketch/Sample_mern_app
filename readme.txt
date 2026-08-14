@@ -1,2 +1,1 @@
-my sample app
-ss
+Hello my dear good students..
